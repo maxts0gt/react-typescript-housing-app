@@ -1,0 +1,13 @@
+{
+    "name": "house-project-v01",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "devDependencies": {
+        "nodeman": "^1.1.2"
+    },
+    "scripts": {
+        "start": "nodemon src/"
+    }
+}
